@@ -1,15 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yacn.github.io/</loc>
-        <lastmod>2013-05-28T16:28:53-04:00</lastmod>
+        <loc>http://www.yacn.pw/blog/2013/05/28/haloo/</loc>
+        <lastmod>2013-05-28T17:09:20-04:00</lastmod>
     </url>
     <url>
-        <loc>http://yacn.github.io/robots.txt</loc>
-        <lastmod>2013-05-28T16:28:53-04:00</lastmod>
+        <loc>http://www.yacn.pw/</loc>
+        <lastmod>2013-05-28T17:09:20-04:00</lastmod>
     </url>
     <url>
-        <loc>http://yacn.github.io/blog/archives/</loc>
-        <lastmod>2013-05-28T16:28:53-04:00</lastmod>
+        <loc>http://www.yacn.pw/robots.txt</loc>
+        <lastmod>2013-05-28T16:32:38-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.yacn.pw/about/</loc>
+        <lastmod>2013-05-28T16:53:54-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.yacn.pw/blog/archives/</loc>
+        <lastmod>2013-05-28T17:09:20-04:00</lastmod>
     </url>
 </urlset>

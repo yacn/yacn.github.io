@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Yet Another (Clever?) Octopress Install]]></title>
-  <link href="http://www.yacn.pw/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Hello World | Yet Another (Clever?) Octopress Install]]></title>
+  <link href="http://www.yacn.pw/blog/categories/hello-world/atom.xml" rel="self"/>
   <link href="http://www.yacn.pw/"/>
   <updated>2013-05-28T17:09:21-04:00</updated>
   <id>http://www.yacn.pw/</id>
