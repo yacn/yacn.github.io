@@ -1,3 +1,4 @@
 html/
 *.swp*
 static-app.jar
+.DS_Store
