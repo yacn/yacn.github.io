@@ -1,6 +1,7 @@
 ---
 template: default.clj
 title: Automated Media Server Overview
+tags: plex media.server personal
 ---
 ## Automated Media Server Overview
 

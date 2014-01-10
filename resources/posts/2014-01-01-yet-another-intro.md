@@ -1,6 +1,7 @@
 ---
 template: default.clj
 title: Yet Another Intro Post
+tags: personal
 ---
 
 # Yet Another Intro Post 
