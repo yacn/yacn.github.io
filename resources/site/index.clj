@@ -24,12 +24,14 @@
    [:h4 "Recent Blog Posts"]
    (map #(let [f % url (static.core/post-url f)
                [metadata _] (static.io/read-doc f)
+               tags (.split (:tags metadata) " ")
                date (static.core/parse-date
                      "yyyy-MM-dd" "dd MMMM yyyy"
                      (re-find #"\d*-\d*-\d*" (str f)))]
+    (if (not (some #{"is3500"} tags))
      [:div
       [:div [:a {:href url} (:title metadata)]
-      [:div date]]])
+      [:div date]]]))
      (take 8 (reverse (static.io/list-files :posts))))]
    [:div.col-md-6
     [:h4 "Recent Activity on Github"]
