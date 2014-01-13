@@ -42,6 +42,11 @@
      [:div.row
       [:div.col-md-12
        content
+       (reduce
+             (fn[h v]
+               (conj h [:a {:href (str "/tags/#" v)} (str v " ")]))
+             [:div#post-tags "Tags: "]
+             (.split (:tags metadata) " "))
        [:div.shares
         [:a.twitter-share-button {:href "https://twitter.com/share" :data-via "yaclevername"} "Tweet"]]
        [:br]
