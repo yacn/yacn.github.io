@@ -2,7 +2,7 @@
 
 [:div
  [:div.row
-  [:div.col-md-12
+  [:div.col-md-6
    [:h2 "IS3500 Blog"]
    (map #(let [f % url (static.core/post-url f)
                [metadata _] (static.io/read-doc f)
@@ -15,3 +15,13 @@
       [:h4.blog-title [:a {:href url} (:title metadata)]]
       [:h5.blog-date date]]))
      (take 8 (reverse (static.io/list-files :posts))))]]]
+;  [:div.col-md-6 
+;   [:h2 "Tags"]
+;   [:ul
+;    (map #(let [tags m]
+;      (for [tags tags]
+;       (if (some #{"is3500" "assignment1"} t)
+;        [:li [:a {:href (str "/tags/#" v)} (str v)]])))
+;
+;     (keys (static.core/tag-map)))
+;   ]]]]
