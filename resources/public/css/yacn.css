@@ -16,6 +16,13 @@ body {
   display: block;
 }
 
+.post-tags {
+  font-weight: bold;
+  text-align: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 .shares {
   margin-top: 15px;
   margin-bottom: 15px;
