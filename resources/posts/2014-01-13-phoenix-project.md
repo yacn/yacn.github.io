@@ -1,11 +1,11 @@
 ---
-title: Test IS3500 Post
+title: "The Phoenix Project" Review
 template: default.clj
-tags: is3500 foo
+tags: is3500blog
 ---
 
-# Foo
+# _The Phoenix Project_ Review
 
-## Bar
+## Subtitle
 
-### Baz
+Content
