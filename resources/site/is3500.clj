@@ -19,7 +19,7 @@
    [:h2 "Tags"]
    [:ul
    (map (fn [tag]
-         (if (some #{tag} ["assignment1"])
+         (if (some #{tag} ["is3500blog" "assignment1"])
           [:li [:a {:href (str "/tags/#" tag)} (str tag)]]))
         (keys (static.core/tag-map)))]
      ]]]
