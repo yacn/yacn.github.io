@@ -4,7 +4,9 @@ tags: assignment1
 template: default.clj
 ---
 
-# Four Years and $13 Million Later
+# Assignment 1 Question 3
+
+## Four Years and $13 Million Later
 
 In 2008, Overstock.com executives restated their earnings for the
 previous five-and-a-half years. This led to a $12.9 million decrease
@@ -17,7 +19,7 @@ Over the course of the next few years, CEO Patrick Byrne wrote letter
 after letter to the shareholders, detailing why things were going the
 way they were, all leading back to the rushed ERP rollout.
 
-## Why did it fail?
+### Why did it fail?
 
 Poor planning, not enough resources, and a rushed sense of urgency.
 When Overstock was upgrading their system, they did not hook up some
@@ -31,7 +33,7 @@ would become misrouted and go off to the wrong place.
 To avoid such a mess, careful planning and care must be taken when dealing
 with such mission-critical systems as ERPs.
 
-## Where are they now?
+### Where are they now?
 
 Overstock seems to be doing well and Patrick Byrne is still CEO. In fact,
 Overstock just recently partnered with Coinbase to begin accepting Bitcoins

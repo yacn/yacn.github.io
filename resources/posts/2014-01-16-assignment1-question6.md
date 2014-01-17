@@ -4,7 +4,9 @@ tags: assignment1
 template: default.clj
 ---
 
-# Implementation Strategies for Shopping Assistant
+# Assignment 1 Question 6
+
+## Implementation Strategies for Shopping Assistant
 
 I propose for the Shopping Assistant an iterative implementation
 style as it would be extremely helpful to have a short feedback

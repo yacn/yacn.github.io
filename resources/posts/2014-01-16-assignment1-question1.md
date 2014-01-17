@@ -4,18 +4,20 @@ title: Assignment 1 Question 1
 tags: assignment1
 ---
 
-# Google Drive Terms of Service Liability
+# Assignment 1 Question 1
+
+## Google Drive Terms of Service Liability
 
 This was the hardst post to write, as the information is
 scattered over so many places. However, this is what I've
 gathered from research.
 
-## Uptime
+### Uptime
 
 Google guarantees 99.9% uptime, which is 8.76 hours
 of downtime per year.
 
-## Terms of Service
+### Terms of Service
 
 The [end-user terms](http://www.google.com/intl/en/policies/terms/)
 of service state that:

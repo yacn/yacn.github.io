@@ -4,7 +4,9 @@ tags: assignment1
 template: default.clj
 ---
 
-# Scrum Alliance Certifications
+# Assignment 1 Question 4
+
+## Scrum Alliance Certifications
 
 Today we will discuss two certifications provided by the Scrum Alliance,
 Certified Scrum Master (CSM) and Certified Scrum Product Owner (CSPO).
@@ -12,9 +14,9 @@ But first, who is the Scrum Alliance? The Scrum Alliance is a membership
 organization that evangelizes the adoption of the Scrum methodology,
 a type of Agile project management.
 
-## Certified Scrum Master
+### Certified Scrum Master
 
-### What is it?
+#### What is it?
 
 The Certified Scrum Master (CSM) certification shows that the person
 fully understands the Scrum methodology and its goals, enabling them
@@ -23,16 +25,16 @@ Scrum. Additionally, they help to protect the team from internal and
 external distractions. In essenence, it is a certification you can
 receive for the position of ScrumMaster.
 
-### Requirements
+#### Requirements
 
 The requirements to become a CSM are straightforward. You must take a
 CSM course from a Certified Scrum Trainer. Afterwards, you must take the
 certification test and receive a passing score. Finally, you must accept
 the License Agreement and complete your Scrum Alliance membership profile.
 
-## Certified Scrum Product Owner
+### Certified Scrum Product Owner
 
-### What is it?
+#### What is it?
 
 A Certified Scrum Product Owner (CSPO) certification shows that you have a
 solid understanding of the Scrum framework, including the terminology,
@@ -42,14 +44,14 @@ a project, being charged by the organization to "get the product out" while
 doing their best to satisfy all the stakeholders. They maintain the product's
 backlog and ensure everyone knows the priorities.
 
-### Requirements
+#### Requirements
 
 Like the Certified Scrum Master certification, the first step to obtaining the
 status of Certified Scrum Product Owner is to attend a CSPO course taught by a
 Certified Scrum Trainer. However, unlike the CSM certification, there is no
 test required to become a CSPO, attending the course is enough.
 
-## Attainable by Graduation?
+### Attainable by Graduation?
 
 I believe that both of these certifications are absolutely obtainable before
 I graduate in 2016. However, will I seek them? Probably not. For one, they cost
