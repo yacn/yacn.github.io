@@ -1,7 +1,7 @@
 ---
 title: Assignment 1 Question 4
 tags: assignment1 is3500
-template: default
+template: default.clj
 ---
 
 # Scrum Alliance Certifications

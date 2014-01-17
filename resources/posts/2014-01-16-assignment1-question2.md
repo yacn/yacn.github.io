@@ -1,7 +1,7 @@
 ---
 title: Assignment 1 Question 2
 tags: is3500 assignment1
-template: default
+template: default.clj
 ---
 
 # Information System Tools Matrix

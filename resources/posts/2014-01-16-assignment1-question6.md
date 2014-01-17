@@ -1,7 +1,7 @@
 ---
 title: Assignment 1 Question 6
 tags: is3500 assignment1
-template: default
+template: default.clj
 ---
 
 # Implementation Strategies for Shopping Assistant

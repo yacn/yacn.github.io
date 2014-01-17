@@ -1,7 +1,7 @@
 ---
 title: Assignment 1 Question 3
 tags: assignment1 is3500
-template: default
+template: default.clj
 ---
 
 # Four Years and $13 Million Later

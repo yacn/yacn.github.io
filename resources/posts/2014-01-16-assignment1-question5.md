@@ -1,7 +1,7 @@
 ---
 title: Assignment 1 Question 4
 tags: is3500 assignment1
-template: default
+template: default.clj
 ---
 
 # Requirements Elicitation Strategies for "Looking Sharp"
