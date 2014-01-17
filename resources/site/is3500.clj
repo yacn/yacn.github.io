@@ -16,7 +16,7 @@
       [:h5.blog-date date]]))
      (take 8 (reverse (static.io/list-files :posts))))]
   [:div.col-md-6
-   [:h2 "Tags"]
+   [:h2 "Assignments"]
    [:ul
    (map (fn [tag]
          (if (some #{tag} ["is3500blog" "assignment1"])

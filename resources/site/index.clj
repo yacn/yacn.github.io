@@ -28,7 +28,7 @@
                date (static.core/parse-date
                      "yyyy-MM-dd" "dd MMMM yyyy"
                      (re-find #"\d*-\d*-\d*" (str f)))]
-    (if (not (some #{"is3500blog"} tags))
+    (if (not (some #{"is3500blog" "assignment1"} tags))
      [:div
       [:div [:a {:href url} (:title metadata)]
       [:div date]]]))
