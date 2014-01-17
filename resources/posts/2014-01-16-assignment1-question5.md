@@ -1,6 +1,6 @@
 ---
 title: Assignment 1 Question 4
-tags: is3500blog assignment1
+tags: assignment1
 template: default.clj
 ---
 

@@ -1,7 +1,7 @@
 ---
 template: default.clj
 title: Assignment 1 Question 1
-tags: is3500blog assignment1
+tags: assignment1
 ---
 
 # Google Drive Terms of Service Liability
