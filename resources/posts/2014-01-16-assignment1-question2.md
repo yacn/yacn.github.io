@@ -4,18 +4,6 @@ tags: is3500 assignment1
 template: default
 ---
 
-Examples of these tools:
+# Information System Tools Matrix
 
-* Visual Modeling (UML/MDG)
-* Requirements Tracking
-* Defect Tracking
-* Project Management
-
-For each, specify:
-
-* Name of tool, vendor, URL to more info
-* Distribution format (desktop app, hosted, cloud-based)
-* cost for single license
-* cloud availability
-
-Use excel spreadsheet and upload matrix JPG.
+<img class="img-responsive img-thumbnail blog-image" src="/images/is3500-a1q2.png" />
