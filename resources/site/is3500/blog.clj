@@ -14,12 +14,12 @@
      [:div
       [:h4.blog-title [:a {:href url} (:title metadata)]]
       [:h5.blog-date date]]))
-     (take 8 (reverse (static.io/list-files :posts))))]
+     (take 24 (reverse (static.io/list-files :posts))))]
   [:div.col-md-6
    [:h2 "Assignments"]
    [:ul
    (map (fn [tag]
-         (if (some #{tag} ["is3500blog" "assignment1"])
+         (if (some #{tag} ["is3500blog" "assignment1" "assignment2"])
           [:li [:a {:href (str "/tags/#" tag)} (str tag)]]))
         (keys (static.core/tag-map)))]
      ]]]
