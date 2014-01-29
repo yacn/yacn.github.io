@@ -29,7 +29,7 @@
      [:div.collapse.navbar-collapse.navbar-ex1-collapse
       [:ul.nav.navbar-nav
        [:li [:a {:href "/blog.html"} "Blog"]]
-       [:li [:a {:href "/is3500.html"} "IS3500 Blog"]]
+       [:li [:a {:href "/is3500/blog.html"} "IS3500 Blog"]]
        [:li [:a {:href "/projects.html"} "Projects"]]
        [:li [:a {:href "/about.html"} "About"]]]
       [:ul.nav.navbar-nav.navbar-right
