@@ -14,4 +14,4 @@
      [:div
       [:h4.blog-title [:a {:href url} (:title metadata)]]
       [:h5.blog-date date]]))
-     (take 8 (reverse (static.io/list-files :posts))))]]]
+     (take 28 (reverse (static.io/list-files :posts))))]]]

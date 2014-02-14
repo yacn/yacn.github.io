@@ -32,7 +32,7 @@
      [:div
       [:div [:a {:href url} (:title metadata)]
       [:div date]]]))
-     (take 8 (reverse (static.io/list-files :posts))))]
+     (take 28 (reverse (static.io/list-files :posts))))]
    [:div.col-md-6
     [:h4 "Recent Activity on Github"]
     [:div.gh-recent]]]]]
