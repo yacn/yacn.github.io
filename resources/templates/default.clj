@@ -8,6 +8,7 @@
   [:meta {:name "keywords" :content (:tags metadata)}]
   [:meta {:name "author" :content (:author-name (static.config/config))}]
   [:meta {:name "viewport" :content "width=device-width, initial-scale=1.0"}]
+  [:link {:rel "alternate" :type "application/rss+xml" :title "RSS Feed" :href "/rss-feed"}]
   [:link {:rel "icon" :href "/img/favicon.ico" :type "image/x-icon"}]
   [:link {:rel "shortcut icon" :href "/img/favicon.ico" :type "image/x-icon"}]
   [:link {:rel "stylesheet" :type "text/css" :href "//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.min.css"}]
