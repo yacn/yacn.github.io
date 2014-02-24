@@ -35,7 +35,8 @@
       [:ul.nav.navbar-nav.navbar-right
        [:li [:a.icon-header {:href "https://github.com/yacn"} [:i.icon-github.icon-2x]]
        [:li [:a.icon-header {:href "https://twitter.com/yaclevername"} [:i.icon-twitter.icon-2x]]
-       [:li [:a.icon-header {:href "https://www.linkedin.com/in/idboehman"} [:i.icon-linkedin.icon-2x]]]]]]]]]]
+       [:li [:a.icon-header {:href "https://www.linkedin.com/in/idboehman"} [:i.icon-linkedin.icon-2x]]
+       [:li [:a.icon-header {:href "http://yacn.me/rss-feed"} [:i.icon-rss.icon-2x]] ]]]]]]]]]
   [:div.content
    [:div.container
     (if (= (:type metadata) :post)
