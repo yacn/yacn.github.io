@@ -1,0 +1,46 @@
+{
+  "checksum": {
+    "previous": "0cb217522a8e2669083b2e84e24705950d9678b63019fbb6059d1b3950c3fddf",
+    "current": "0cb217522a8e2669083b2e84e24705950d9678b63019fbb6059d1b3950c3fddf"
+  },
+  "fonts": [
+    "fontcustom/fontcustom_0cb217522a8e2669083b2e84e2470595.ttf",
+    "fontcustom/fontcustom_0cb217522a8e2669083b2e84e2470595.svg",
+    "fontcustom/fontcustom_0cb217522a8e2669083b2e84e2470595.woff",
+    "fontcustom/fontcustom_0cb217522a8e2669083b2e84e2470595.eot"
+  ],
+  "glyphs": {
+    "pms-icon": {
+      "codepoint": 61696,
+      "source": "pms/pms-icon.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_name": "fontcustom",
+    "force": false,
+    "input": {
+      "templates": "pms/",
+      "vectors": "pms/"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "fontcustom",
+      "fonts": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom-preview.html"
+  ]
+}
