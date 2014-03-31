@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/yacn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://yacn.me
+  * I am yacn (https://keybase.io/yacn) on keybase.
+  * I have a public key with fingerprint A5CB 4957 7C40 E6D4 1C4A  8E0E 2802 6488 A314 4816
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "a5cb49577c40e6d41c4a8e0e28026488a3144816",
+            "host": "keybase.io",
+            "key_id": "28026488a3144816",
+            "uid": "686e241dc8ae16d614f38911540a5c00",
+            "username": "yacn"
+        },
+        "service": {
+            "hostname": "yacn.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396292649,
+    "expire_in": 157680000,
+    "prev": "aa07ae782d7883571a17e92dd67625818e32d54c662d1b9cf7ed414b9ef13986",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.1
+Comment: https://keybase.io/crypto
+
+yMLzAnicbVF9TBtlGG87BytsAQyW+BFxxxS2tN3d9XofZSBGs60yt2GxTgTr9e6l
+O4p3tR+MwooBBoO5JQ7BoZAtBAIWSqiwoUFY6Fw3JgmbH1synSy4uZA4RInoslTc
+e0QT//D+ed/7Pb+P532e8xvWKBKUWSq+qTt1p0Y5PTnvU1iY8c3ViF3i/YipGnGC
+1aNUEB3A7XILohcxIayRsxOMkaI4AgUkT2AcwdIABTiN4iRB06wBIwgaIxEtsl/y
+yApoY2c9QC9IEIM/NoGH6P/wfasFkiYBTmA8R7MAI3kSI0oNNINhRgKF2SgqEz3A
+LbJvAcj2s5yIBLQIRCoEDiLVq7H/qerhTYu43JJX4qRyCO73el0mWeP1u2TSAWC3
+/SO32QWRh8+Fggrg9giSiJgwyOS8guyHGRgSZ2DbjBYBlS7BDWyCzDBSJI3CT44B
+FfKQWJRiAUXjPEXTBiOFsRgFGJznSYrEjTRGAwPOGwmOJHEeszNcKQXgJAk7A0ph
+Bi0PwwPeFiXERME2WQe09AgOkfX63AAJnIsUP6RQJiji1qrkhSkS1Mn/rtHfnbRC
++r4Izk+FF9pqdXkd6tkniJa8Cx/6hUTNL8++UXAciy39ED7wJCNMlcwVPTq1c/RN
+3VH11qyYkrQdjx9M/02fMlq3NfCpZ2DLK10Xv06qMIWc85WO1ht9PmkbQ601RS/l
+3TGPvHYwidpIkeJPr4sZ4I+qCV5KSI6zDNU39c8OZO8IXSypv5fYIaj63/lR3Xls
+35n8voa00dQt+OLeaztik/EHT57Yl9L2nEa8bX3qlKrpyumjj5jT5v4sJgrnqhs+
+2nPVfaHzdMy2qUjb0hvtuTeIj41ovqIOjetmPs+tKgqknHhX5+r0ZlnOBnLTkfV9
+2shdzzfPTNxvrF0eyfyupjf/1sSMuSvjsztlGWezCva4Whd009nHGiaXk9utfyv1
+2rojCs22nx0pTQP9j+mbXzBu6J7u+D44W1LwSfjpnjN1ObuGd79cNlp797r58Nju
+rmK6N6nsxVA/2j54P83p3C6SkYa5xuqOHse19ipsLI+3xM450eBS1PnxQvYVT2tk
+Md2Xv+7VaKFZX5jpCE2pDjN09GbxukzfSE74svVqyUzq9r3D729Sq1TDLzkfvrx0
+RMEPk82HvrTGIWsev252bG45Hy7/IOfGX8H0S7pTuW0bmW9rrEOVWsv6X+MC9TdP
+rjzvDo1Hfm9ciVNN7LptiUUWE8tvNYM6TXzwveWhmu7AAzcRf90=
+=baOU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yacn
+
+==================================================================
