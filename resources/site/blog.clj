@@ -10,8 +10,8 @@
                   date (static.core/parse-date
                          "yyyy-MM-dd" "dd MMM yyyy"
                          (re-find #"\d*-\d*-\d*" (str f)))]
-        (if (not (some #{"is3500blog" "assignment1" "assignment2" "assignment3"} tags))
-          [:div
-            [:h4.blog-title [:a {:href url} (:title metadata)]]
-            [:h5.blog-date date]]))
-          (take 28 (reverse (static.io/list-files :posts))))]]]
+              (if (not (some #{"is3500blog" "assignment1" "assignment2" "assignment3"} tags))
+                [:div
+                  [:h4.blog-title [:a {:href url} (:title metadata)]]
+                  [:h5.blog-date date][:h5.blog-date (map (fn [t] [:a {:href (str "/tags/#" t)} (str " " t)]) tags)]]))
+          (take 48 (reverse (static.io/list-files :posts))))]]]

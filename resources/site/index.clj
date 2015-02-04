@@ -12,10 +12,9 @@
     [:div.col-md-12
       [:p
         "Welcome to yet another clever blog. This is where I'll post about things that interest me. "
-        "I'm passionate about building things, solving problems, and having fun. "
-        "My current tools of choice are Ruby, Python, and Bash. Recently, I've been dabling in Clojure as well to scratch my functional itch. "
-        "Here you'll find my " [:a {:href "/blog.html"} "blog"] ", and some of the " [:a {:href "/projects.html"} "projects"] " I'm working on, "
-        "and a little more " [:a {:href "/about.html"} "about"] " myself."]
+        "I'm passionate about building scalable systems, creating tools, and having fun. "
+        "My current languages of choice are Ruby and Python. I've been dabling in Clojure a bit as well, "
+        "along with the Rust alpha for my capstone class."]
       [:p
         "I'm active on " [:a {:href "https://github.com/yacn"} "GitHub"] " and " [:a {:href "https://twitter.com/yaclevername"} "tweet"] " occasionally."]]
   [:br]
